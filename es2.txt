@@ -1,0 +1,10 @@
+ES 2
+
+CA2 : 11001 + 10101 = 01110 (la somma in CA2 si esegue come una normale somma).
+
+OVERFLOW : SI, in quanto dati due numeri dello stesso segno il segno del risultato è discorde. 
+
+
+M & S: 1 1001 + 1 0101=  1 1110 (In M&S dati due numeri dello stesso segno, come in questo caso, la somma rimane tale e va semplicemente sommato il valore assoluto dei due numeri considerando il loro segno).
+
+OVERFLOW : NO, in quanto dati 5 bit la loro somma è rappresentabile e non è presente quindi un carry sul MSB.
